@@ -1,0 +1,16 @@
+twitter-to-kafka-service:
+  twitter-keywords:
+    - Java
+    - Microservices
+    - Kafka
+    - Elasticsearch
+my-custom-keywords:
+  fruits-details:
+    - apple
+    - guava
+    - cherry
+    - lemon
+  city-details:
+    - Agra
+    - Moradabad
+    - Delhi

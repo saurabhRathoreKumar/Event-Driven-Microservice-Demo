@@ -1,0 +1,28 @@
+2024-05-12 11:25:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21.0.3 with PID 7948 (/Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo/twitter-to-kafka-service/target/classes started by saurabhkumar in /Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo)
+2024-05-12 11:25:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-12 11:25:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.37 seconds (process running for 0.644)
+2024-05-12 11:25:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2024-05-12 11:25:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2024-05-12 11:25:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21.0.3 with PID 7987 (/Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo/twitter-to-kafka-service/target/classes started by saurabhkumar in /Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo)
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.373 seconds (process running for 0.637)
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - null
+2024-05-12 11:32:04 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Fruits details: [apple, guava, cherry, lemon]
+2024-05-12 11:35:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21.0.3 with PID 8035 (/Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo/twitter-to-kafka-service/target/classes started by saurabhkumar in /Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo)
+2024-05-12 11:35:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-12 11:35:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.433 seconds (process running for 0.708)
+2024-05-12 11:35:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2024-05-12 11:35:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2024-05-12 11:35:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - null
+2024-05-12 11:35:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Fruits details: [apple, guava, cherry, lemon]
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21.0.3 with PID 8055 (/Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo/twitter-to-kafka-service/target/classes started by saurabhkumar in /Volumes/A/LetsCode/MAY_2024_CODIN/microservices-demo)
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.369 seconds (process running for 0.625)
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - null
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Fruits details: [apple, guava, cherry, lemon]
+2024-05-12 11:39:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - City details: [Agra, Moradabad, Delhi]
